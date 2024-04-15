@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960768611600",
+    "project_id": "flutter-foodeli",
+    "storage_bucket": "flutter-foodeli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960768611600:android:4e5e2e8e7c36ce29f78195",
+        "android_client_info": {
+          "package_name": "com.example.ct484_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcKHQkrDnjsfzGwLPMMp0SHKjnz1K029o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

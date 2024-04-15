@@ -1,0 +1,49 @@
+name: ct484_project
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.1
+  collection: ^1.18.0
+  intl: ^0.17.0
+  flutter_credit_card: ^4.0.1
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/maindishes/pho-bo.jpg
+    - lib/images/maindishes/my-y.jpg
+    - lib/images/maindishes/hai-san-hap.jpg
+    - lib/images/maindishes/ga-nuong-rau-cu.jpg
+    - lib/images/maindishes/com-tron-han-quoc.jpg
+    - lib/images/maindishes/com-rau-xao-dau-hu.jpg
+    - lib/images/maindishes/beefsteak.jpg
+
+    - lib/images/snacks/chocolate.jpg
+    - lib/images/snacks/hat.jpg
+    - lib/images/snacks/khoai-tay-chien.jpg
+
+    - lib/images/desserts/banh-kem.jpg
+    - lib/images/desserts/kem.jpg
+
+    - lib/images/fastfoods/banh-mi.jpg
+    - lib/images/fastfoods/banh-xeo.jpg
+    - lib/images/fastfoods/ga-chien.jpg
+    - lib/images/fastfoods/goi-cuon.jpg
